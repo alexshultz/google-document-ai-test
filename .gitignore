@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Binary or compiled files
+*.out
+*.exe
+
+# key files
+documentai-hazel-e19a76f9fa12.json
